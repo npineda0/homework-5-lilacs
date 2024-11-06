@@ -3,8 +3,9 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-   <main>
-    <h1>Home</h1>
-   </main>
+    <main>
+      <h1>Home</h1>
+      <p>Lilac</p>
+    </main>
   );
 }
