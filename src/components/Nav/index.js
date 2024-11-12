@@ -17,6 +17,15 @@ export default function Nav() {
         <li>
           <Link href="/gallery">Gallery</Link>
         </li>
+        <li>
+          <Link href="/garden">Gardening</Link>
+        </li>
+        <li>
+          <Link href="/guide">Guide</Link>
+        </li>
+        <li>
+          <Link href="/questions">FAQ</Link>
+        </li>
       </ul>
     </nav>
   );
