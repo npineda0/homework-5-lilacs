@@ -1,1 +1,33 @@
+.mainContent h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
 
+.mainContent span{
+    font-weight: bold;
+    margin-right: 4px;
+}
+.mainContent p{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.mainContent img{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 600px;
+}
+
+.mainContent a{
+    padding: 10px;
+    background-color: plum;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 700px;
+ 
+}
