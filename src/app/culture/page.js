@@ -48,7 +48,7 @@ export default function Culture() {
       <div>
         <h1>Festivals</h1>
 
-        <img src="/lilacs-festival.jpg"></img>
+        <img src="/lilacs-festival.jpg" />
 
         <p>
           There are festivals that celebrate lilacs and their significance to
@@ -64,7 +64,7 @@ export default function Culture() {
           Arboretum.
         </p>
 
-        <h3>Lilac Village</h3>
+        <h3>Lombard, Illinois</h3>
         <p>
           Lombard, Illinois, called the "Lilac Village", which has an annual
           lilac festival and parade in May. The village also contains Lilacia
@@ -93,7 +93,7 @@ export default function Culture() {
           Lilac Celebration each May.
         </p>
 
-        <h3>Lilac City</h3>
+        <h3>Spokane, Washington</h3>
         <p>
           Spokane, Washington, known as the "Lilac City", which holds an annual
           lilac festival and lilac parade.

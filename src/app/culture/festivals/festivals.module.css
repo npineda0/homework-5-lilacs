@@ -1,0 +1,30 @@
+.mainFestivals {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 70px 30px 30px 30px;
+  color: var(--text-color);
+}
+
+.festHolder {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  /* background-color: bisque; */
+  flex-wrap: wrap;
+}
+
+.festInfoCard {
+  background-color: var(--secondary-color);
+  width: 42%;
+  margin: 20px;
+  color: var(--background-color);
+  padding: 10px;
+  border: 7px solid var(--accent-color);
+}
+
+.festInfoCard h2 {
+  margin-bottom: 25px;
+}
