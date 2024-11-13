@@ -1,0 +1,15 @@
+.threeMain h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.threeMain p{
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
