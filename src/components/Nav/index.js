@@ -27,6 +27,9 @@ export default function Nav() {
           <Link href="/facts">Fun Facts</Link>
         </li>
         <li>
+          <Link href="/greek"> Greek Mythology</Link>
+        </li>
+        <li>
           <Link href="/questions">FAQ</Link>
         </li>
       </ul>
