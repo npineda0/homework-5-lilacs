@@ -18,7 +18,7 @@ export default function Culture() {
         </p>
 
         <h2>Colors</h2>
-        <img src="/lilacs.webp" />
+        {/* <img src="/lilacs.webp" /> */}
         <p>
           Purple lilacs symbolize first love but also spirituality while lilacs
           that are more blue symbolize happiness and tranquility. Magenta lilacs
