@@ -24,6 +24,9 @@ export default function Nav() {
           <Link href="/guide">Guide</Link>
         </li>
         <li>
+          <Link href="/facts">Fun Facts</Link>
+        </li>
+        <li>
           <Link href="/questions">FAQ</Link>
         </li>
       </ul>
