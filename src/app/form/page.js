@@ -1,8 +1,10 @@
 "use client";
 
+import fileStyle from "@/app/form/form.module.css";
+
 export default function Form() {
   return (
-    <main>
+    <main className={fileStyle.formContent}>
       <h1>Form</h1>
       <p>Please submit any fun facts you have about Lilacs!</p>
 
@@ -12,7 +14,7 @@ export default function Form() {
           <input></input>
         </div>
         <div>
-          <label>Description</label>
+          <label>Fact</label>
           <input></input>
         </div>
 
