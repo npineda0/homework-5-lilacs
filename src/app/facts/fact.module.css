@@ -5,6 +5,43 @@
   margin-top: 10px;
 }
 
+.factContent h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.factContent p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.factContent a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
 .factContent img{
     width: 100px;
+    margin-left: 150px;
+}
+
+.factContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.factContent div{
+    border-radius: 6px;
+    background-color: plum;
+    width: 400px;
+
+    margin: 0 auto;
+    margin-top: 10px;
 }
