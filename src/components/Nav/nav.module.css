@@ -1,5 +1,5 @@
 .mainNav {
-  height: 60px;
+  height: 65px;
   background-color: var(--primary-color);
   display: flex;
   justify-content: space-around;
@@ -13,5 +13,5 @@
 .mainNav li a {
   text-decoration: none;
   color: var(--background-color);
-  font-size: 32px;
+  font-size: 25px;
 }
