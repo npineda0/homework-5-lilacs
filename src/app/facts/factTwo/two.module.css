@@ -1,0 +1,25 @@
+.twoMain h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.twoMain p{
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.twoMain div{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.twoMain img{
+    width: 100px;
+}
+
