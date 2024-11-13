@@ -1,0 +1,30 @@
+.colorStyle h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.colorStyle {
+    display: flex;
+    flex-direction: column;
+}
+
+.colorStyle img{
+    width: 100px;
+}
+
+.colorStyle div{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.colorStyle h4{
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
