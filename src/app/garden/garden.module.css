@@ -1,0 +1,29 @@
+.gardenHeader {
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.gardenImg1 {
+    height: 300px;
+    width: 450px;
+}
+
+.gardenImg2 {
+    height: 300px;
+    width: 450px;
+}
+
+.gardenTxt {
+    width: 600px;
+}
