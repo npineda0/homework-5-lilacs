@@ -39,7 +39,7 @@ export default function Culture() {
         </p>
 
         <p>
-          The music-hall song by Ivor Novello, We'll Gather Lilacs, first
+          The music-hall song by Ivor Novello, We&apos;ll Gather Lilacs, first
           performed in 1945, speaks of the longing of two lovers to be reunited
           in a traditional English rural setting. It has since been recorded and
           performed by numerous artists.
@@ -57,8 +57,8 @@ export default function Culture() {
 
         <h3>Arnold Arboretum</h3>
         <p>
-          The Arnold Arboretum in Boston, Massachusetts celebrates "Lilac
-          Sunday" every May. The Arboretum shows off its collection of over 422
+          The Arnold Arboretum in Boston, Massachusetts celebrates &quot;Lilac
+          Sunday&quot; every May. The Arboretum shows off its collection of over 422
           lilac plants, of 194 different varieties. Lilac Sunday is the only day
           of the year when picnicking is allowed on the grounds of the
           Arboretum.
@@ -66,7 +66,7 @@ export default function Culture() {
 
         <h3>Lombard, Illinois</h3>
         <p>
-          Lombard, Illinois, called the "Lilac Village", which has an annual
+          Lombard, Illinois, called the &quot;Lilac Village&quot;, which has an annual
           lilac festival and parade in May. The village also contains Lilacia
           Park, a garden with over 200 varieties of lilacs, as well as over 50
           kinds of tulips.
@@ -95,7 +95,7 @@ export default function Culture() {
 
         <h3>Spokane, Washington</h3>
         <p>
-          Spokane, Washington, known as the "Lilac City", which holds an annual
+          Spokane, Washington, known as the &quot;Lilac City&quot;, which holds an annual
           lilac festival and lilac parade.
         </p>
 

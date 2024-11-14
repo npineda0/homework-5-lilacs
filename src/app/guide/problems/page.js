@@ -9,7 +9,7 @@ export default function Problems() {
 
             <h2 className={problemStyles.secondHeader}>Powdery Mildew</h2>
             <p className={problemStyles.txt}>
-            The best way to avoid this? Buy and plant powdery mildew-resistant lilac varieties (check the plant tag or online description). It also helps to plant lilacs where there's plenty of air circulation. Don't bother spraying to control this fungal disease, as it will eventually go away on its own.
+            The best way to avoid this? Buy and plant powdery mildew-resistant lilac varieties (check the plant tag or online description). It also helps to plant lilacs where there&apos;s plenty of air circulation. Don&apos;t bother spraying to control this fungal disease, as it will eventually go away on its own.
             </p>
 
             <h2 className={problemStyles.secondHeader}>Insects</h2>

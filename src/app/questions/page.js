@@ -24,8 +24,8 @@ export default function Questions() {
         <main>
             <h1 className={questionStyles.header} >FAQ for Gardening Lilacs:</h1>
 
-            <h2 className={questionStyles.header2}>Can't find the answer to your question?
-                <br></br> Fill out our form and we'll get right back to you!
+            <h2 className={questionStyles.header2}>Can&apos;t find the answer to your question?
+                <br></br> Fill out our form and we&apos;ll get right back to you!
             </h2>
 
             <div className={questionStyles.formBackground}>
@@ -48,7 +48,7 @@ export default function Questions() {
                     </div>
                 </form>
                 {/* message */}
-                {message && <p className={questionStyles.formMsg}>Thank you {name} for your message! <br/> We'll get back to you as soon as possible!</p>}
+                {message && <p className={questionStyles.formMsg}>Thank you {name} for your message! <br/> We&apos;ll get back to you as soon as possible!</p>}
             </div>
 
             <div className={questionStyles.container}>
@@ -59,8 +59,8 @@ export default function Questions() {
             <div className={questionStyles.container}>
                 <p className={questionStyles.question}><b>Q:</b> <i>How to Prune Lilacs?</i></p>
                 <p className={questionStyles.answer}><b>A:</b> Newer, smaller varieties of lilacs need less pruning than the large common lilacs, but all lilacs will grow better and produce more flowers with occasional pruning. Here are some options:
-                    If you have an older lilac shrub that isn't blooming even though it's getting plenty of sun, cut it down to 8 inches above the ground in late winter (March or April), then let it grow out. The following March, select the best-looking 8 to 10 stems and cut them back by half. Cut the rest to the ground. You should see new blooms the following year.
-                    To rejuvenate shrubs that aren't blooming well without cutting the entire shrub to the ground, selectively remove 1/3 of the branches all the way back to the ground each year.
+                    If you have an older lilac shrub that isn&apos;t blooming even though it&apos;s getting plenty of sun, cut it down to 8 inches above the ground in late winter (March or April), then let it grow out. The following March, select the best-looking 8 to 10 stems and cut them back by half. Cut the rest to the ground. You should see new blooms the following year.
+                    To rejuvenate shrubs that aren&apos;t blooming well without cutting the entire shrub to the ground, selectively remove 1/3 of the branches all the way back to the ground each year.
                     Prune for size by cutting back branches immediately after the shrub finishes flowering.</p>
             </div>
 
@@ -68,7 +68,7 @@ export default function Questions() {
                 <p className={questionStyles.question}><b>Q:</b> <i>How to Transplant Lilacs?</i></p>
                 <p className={questionStyles.answer}><b>A:</b> Transplanting a young lilac is easier than accommodating the movement of an older one, since the bushes can grow up to 15 feet tall and 12 feet wide, with a root ball about 50 percent wider than the width of the shrub.
 
-Plan to move the shrub during its dormant period in late winter, before leaves and buds appear. When transplanting, dig a hole that's about twice as big as the root ball, and ensure none of the root ball sticks out above the top of the soil. Water deeply and regularly to allow the roots to establish themselves in the new spot.</p>
+Plan to move the shrub during its dormant period in late winter, before leaves and buds appear. When transplanting, dig a hole that&apos;s about twice as big as the root ball, and ensure none of the root ball sticks out above the top of the soil. Water deeply and regularly to allow the roots to establish themselves in the new spot.</p>
             </div>
 
             <div className={questionStyles.container}>
