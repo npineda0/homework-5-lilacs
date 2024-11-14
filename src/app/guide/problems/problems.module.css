@@ -1,0 +1,19 @@
+.header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.secondHeader {
+    text-align: center;
+}
+
+.txt {
+    width: 900px;
+
+    margin: 0 auto;
+    margin-bottom: 40px;
+
+    text-align: center;
+}
