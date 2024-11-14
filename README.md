@@ -5,5 +5,11 @@ I did the home page, where it welcomes users to the site. In addition there is a
 ## Francis
 
 ## Naila
+The three pages that I created were the Gardening, Guide, and FAQ pages. The Gardening page
+displays general information about the subject along with some images. The Guide page contains 5 nested routes along with a layout.js file. The layout file for the nested routes displays a navigation that lets the user switch between "Caring for Lilacs" and "Common Problems with Lilacs." The "Caring for Lilacs" section has the remaining 4 nested routes that when clicked, take the user to the details page. This details page also contains a back button to 
+allow the user to navigate back to where they were. The FAQ page has a question and answer
+section for topics regarding gardening lilacs along with a form to submit any questions. When 
+the user submits the form, a thank you message is briefly displayed. On the Home page, I added
+the bottom section "View our Gardening Guide:" where the user can click to be redirected to "Caring for Lilacs" or "Common Problems with Lilacs" from the Guide page. Lastly, I added my pages to the navigation.
 
 Deployment Link: https://homework-5-lilacs-git-main-naila-lugardos-projects.vercel.app/?vercelToolbarCode=mvnWB8tRjREE4Ax
