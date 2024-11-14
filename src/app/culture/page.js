@@ -33,9 +33,9 @@ export default function Culture() {
         </p>
 
         <p>
-          Syringa vulgaris is the state flower of New Hampshire, because it "is
+          Syringa vulgaris is the state flower of New Hampshire, because it &quot;is
           symbolic of that hardy character of the men and women of the Granite
-          State."
+          State.&quot;
         </p>
 
         <p>
