@@ -11,7 +11,7 @@ allow the user to navigate back to where they were. The FAQ page has a question 
 section for topics regarding gardening lilacs along with a form to submit any questions. When 
 the user submits the form, a thank you message is briefly displayed. On the Home page, I added
 the bottom section "View our Gardening Guide:" where the user can click to be redirected to "Caring for Lilacs" or "Common Problems with Lilacs" from the Guide page. Lastly, I added my pages to the navigation.
-Sources:
+#Sources:
 - https://www.almanac.com/plant/lilacs
 - https://www.marthastewart.com/7845342/lilac-grow-care-guide
 - https://miraclegro.com/en-us/tree-shrub-landscaping/how-to-grow-lilacs.html#:~:text=Plant%20lilacs%20in%20full%20sun,Prune%20to%20encourage%20blooming.
