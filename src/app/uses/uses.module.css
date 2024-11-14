@@ -4,6 +4,10 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 70px 30px 30px 30px;
+  padding: 40px 30px 30px 30px;
   color: var(--text-color);
+}
+
+.mainUses div {
+  width: 55%;
 }

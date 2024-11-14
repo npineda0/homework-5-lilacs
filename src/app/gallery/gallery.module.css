@@ -1,0 +1,19 @@
+.mainGallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px 30px 30px 30px;
+  color: var(--text-color);
+}
+
+.mainGallery img {
+  height: 225px;
+}
+
+.imageHolder {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
