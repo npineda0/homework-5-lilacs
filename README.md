@@ -17,4 +17,5 @@ Sources:
 - https://www.marthastewart.com/7845342/lilac-grow-care-guide
 - https://miraclegro.com/en-us/tree-shrub-landscaping/how-to-grow-lilacs.html#:~:text=Plant%20lilacs%20in%20full%20sun,Prune%20to%20encourage%20blooming.
 
-Deployment Link: https://homework-5-lilacs-git-main-naila-lugardos-projects.vercel.app/?vercelToolbarCode=mvnWB8tRjREE4Ax
+### Deployment Link: 
+https://homework-5-lilacs.vercel.app/
