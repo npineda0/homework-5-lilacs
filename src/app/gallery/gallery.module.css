@@ -17,3 +17,32 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.yourGallery {
+  width: 90%;
+  min-height: 150px;
+  margin-top: 20px;
+  border-top: 3px solid var(--accent-color);
+}
+
+.yourGalleryContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryImages {
+  margin-top: 50px;
+  width: 90%;
+}
+
+.yourGallery button {
+  width: 60px;
+  height: 200px;
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}

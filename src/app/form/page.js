@@ -39,7 +39,7 @@ export default function Form() {
             onChange={onFileUpload}
             type="file"
             accept="image/*"
-            id="lilacImg"
+            id="lilacImg" 
             name="lilacImg"
           ></input>
         </div>
