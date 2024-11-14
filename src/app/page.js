@@ -5,19 +5,31 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className={styles.mainContent}>
-      <h1>Home</h1>
-      <img src="https://arborhilltrees.com/blog/wp-content/uploads/2020/06/common-purple-lilac-facts.jpg" />
-      <p>
-        <span>Welcome!</span>
-        In this website you will get to learn more about Lilacs, such the
-        culture, usage, fun facts, and how to garden them!
-      </p>
-      <p>
-        If you have any more fun facts that you want to submit please use the
-        form to submit the fun facts!
-      </p>
+      <div className={styles.home}>
+        <h1>Home</h1>
+        <img src="https://arborhilltrees.com/blog/wp-content/uploads/2020/06/common-purple-lilac-facts.jpg" />
+        <p>
+          <span>Welcome!</span>
+          In this website you will get to learn more about Lilacs, such the
+          culture, usage, fun facts, and how to garden them!
+        </p>
+        <p>
+          If you have any more fun facts that you want to submit please use the
+          form to submit the fun facts!
+        </p>
 
-      <Link href="/form">Form</Link>
+        <Link href="/form">Form</Link>
+      </div>
+
+      <div className={styles.galleryMention}>
+        <h2>Our gallery</h2>
+        <p>View our gallery of lilacs and add more to your personal gallery!</p>
+        <div className={styles.toGallery}>
+          <Link href="/gallery">
+            <button>View Gallery</button>
+          </Link>
+        </div>
+      </div>
     </main>
   );
 }
