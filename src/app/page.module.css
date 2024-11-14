@@ -60,3 +60,67 @@
 .toGallery h2 {
   color: var(--background-color);
 }
+
+
+.guideContainer {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding-bottom: 40px;
+}
+
+.header {
+  font-size: 25px;
+}
+
+.guideDetails {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.caring {
+  height: 150px;
+  width: 350px;
+  background-color: var(--accent-color);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  color: white;
+  font-size: 18px;
+}
+.caring:hover {
+  border: 8px solid var(--secondary-color);
+}
+
+.txt {
+  margin-top: 13px;
+}
+
+.problems {
+  height: 150px;
+  width: 350px;
+  background-color: var(--accent-color);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  color: white;
+  font-size: 18px;
+}
+.problems:hover {
+  border: 8px solid var(--secondary-color);
+}
+
+.route {
+  text-decoration: none;
+  color: white;
+}

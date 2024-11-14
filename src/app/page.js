@@ -30,6 +30,23 @@ export default function Home() {
           </Link>
         </div>
       </div>
+
+      <div className={styles.guideContainer}>
+        <h2 className={styles.header}>View our Gardening Guide:</h2>
+        <div className={styles.guideDetails}>
+          <Link  className={styles.route} href="/guide">
+          <div className={styles.caring}>
+            <p className={styles.txt}>Caring for Lilacs</p>
+          </div>
+          </Link>
+          <Link  className={styles.route} href="/guide/problems">
+          <div className={styles.problems}>
+            <p className={styles.txt}>Common Problems with Lilacs</p>
+          </div>
+          </Link>
+        </div>
+      </div>
+
     </main>
   );
 }
